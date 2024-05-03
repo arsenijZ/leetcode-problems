@@ -13,6 +13,7 @@ def twoSum(nums, target):
                 return [i,j]
                 
 # test
+print(twoSum([2,3,7,9], 9))
 print(twoSum([3,2,4], 6))
 
                 
